@@ -1,0 +1,8 @@
+[1018/193224.128:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1018/193242.525:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 5
+[1018/193242.525:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 7
+[1018/193242.525:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 9
+[1018/193242.525:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 1
+[1018/193242.525:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 11
+[1018/193242.831:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 401
+[1018/193242.857:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 403
